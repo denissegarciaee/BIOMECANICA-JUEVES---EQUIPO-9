@@ -1,0 +1,122 @@
+\documentclass{article}
+\setlength{\parskip}{5pt} % esp. entre parrafos
+\setlength{\parindent}{0pt} % esp. al inicio de un parrafo
+\usepackage{amsmath} % mates
+\usepackage[sort&compress,numbers]{natbib} % referencias
+\usepackage{url} % que las URLs se vean lindos
+\usepackage[top=25mm,left=20mm,right=20mm,bottom=25mm]{geometry} % margenes
+\usepackage{hyperref} % ligas de URLs
+\usepackage{graphicx} % poner figuras
+\usepackage{float}
+\usepackage[spanish]{babel} % otros idiomas
+\usepackage[utf8]{inputenc}
+\author{Denisse García Espinoza\\Roxana Berlanga Pérez\\Pedro Hazael Uriegas Peña\\ Karime Montsserrat Cantú Ramirez\\Joselyn Zacarías Chávez\\Miguel Ángel Morales Arredando} % author
+\title{Ensayo\\Biomec\'anica de la Mano} % titulo
+\date{\today}
+
+\begin{document} % inicia contenido
+
+\maketitle % cabecerahttps://www.overleaf.com/project/63104447a0d2c7038913cf95
+
+\begin{abstract} % resumen
+La disposici\'on anat\'omica de la mano permite entender su gran versatilidad en la 
+manipulaci\'on de objetos y ajustes posicionales de acuerdo a las necesidades en la ejecuci\'on 
+de patrones funcionales. Correlacionar sus unidades arquitect\'onicas con el complejo
+biomec\'anico de cada una de ellas, permite entender que la funci\'on prensil de la mano 
+depende de la integridad de la cadena cin\'etica de huesos y articulaciones extendida desde 
+la muñeca hasta las falanges distales, y que el compromiso de sus arcos longitudinales o 
+transversales altera la morfolog\'ia de la mano e implica la ruptura de un ensamblaje 
+coordinado necesario para la realizaci\'on de agarres de fuerza y de precisi\'on.
+
+
+\end{abstract}
+
+\section{Introducción}\label{intro} % seccion y etiqueta
+Se ha dicho, y posiblemente con razón, que el hombre ha conseguido dominar el resto de las especies vivas de la tierra gracias a su cerebro y a sus manos, y esto es as\'i por la existencia de un pulgar oponible, ya que la func\'ion principal de la mano es la pres\'ion y si desde la pinza del crust\'aceo hasta la mano del simio realizan una oposic\'ion, ninguna puede conseguirlo con sutileza y precis\'ion de que es capaz la mano del hombre.
+
+La mano es adem\'as un\'organo de recepc\'ion sensorial indispensable para el conocimiento de los vol\'umenes y de las distancias, y env\'ia a la corteza cerebral la interpretac\'ion y valorac\'ion de las informaciones que recibe.
+\\
+\\
+\\\\
+\\
+\\\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\section{Desarrollo}
+\textbf{Ejes de los dedos}\\
+Cuando dejamos que la mano adopte su posic\'ion natural (Figura 1 A), los dedos est\'an algo separados entre s\'i y el eje de los dedos pasa por el dedo medio, que sirve de referencia a partir de la cual se produce la aproximac\'ion o separac\'ion de los dem\'as dedos. En esta posic\'ion existe un paralelismo entre los ejes de los tres \'ultimos dedos y una divergencia entre los tres primeros.
+\\ 
+Al separar los dedos (Figura 1 B), el eje de cada uno de ellos converge en un punto que corresponde aproximadamente al tub\'erculo del escafoides.
+\\
+Al aproximar los dedos (Figura 1 C), sus ejes no son paralelos entre s\'i, sino que convergen hipot\'eticamente en un punto situado muy lejos de su borde libre, ya que los dedos son m\'as anchos por la base que por la punta.
+\\
+Al cerrar el puño, con las puntas de los dedos extendidas y el pulgar en aducci\'on (Figura 1 D), los ejes de los dedos convergen en un punto situado en la base del tal\'on de la mano. 
+\\
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=.5]{figura1.jpg}
+    \caption{Ejes de los dedos}
+    \label{ejes}
+\end{figure}
+
+\textbf{Articulaciones metacarpofal\'angicas}
+Las articulaciones metacarpofal\'angicas son de tipo cond\'ileo, y permiten por tanto movimientos activos de flexoextens\'ion, palmar y dorsal, abducc\'ion y aducc\'ion y pequeños movimientos pasivos de rotac\'ion axial.
+\\
+Las articulaciones metacarpofal\'angicas, al ser de tipo cond\'ileo, no poseen movimientos de rotac\'ion axial activa, sin embargo, en individuos con laxitud ligamentosa podr\'ian llegar a una rotac\'ion axial pasiva de hasta 60°.
+\\
+En el dedo \'indice, la rotac\'ion axial interna puede llegar a 45°, mientras que la rotac\'ion axial externa es pr\'acticamente nula.
+\\
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.2]{Figura2.jpg}
+    \caption{Articulaciones metacarpofal\'angicas}
+    \label{Arti}
+\end{figure}
+
+\textbf{Articulaciones interfalángicas}\\
+Las articulaciones interfalángicas son de tipo troclear, y permiten solo un tipo de movimiento que es el de flexoextensión.
+Al igual que en las articulaciones metacarpofalángicas, la superficie articular que presenta la cabeza de la primera falange es mucho mayor que la de la base de la segunda falange, por lo que por las mismas razones biomecánicas, en la base de la segunda falange existe un fibrocartílago glenoideo que en el momento de la flexión se desliza sobre la cara palmar de la falange proximal.
+La carrilla articular de la cabeza de la primera falange tiene forma de polea y la carrilla articular de la base de la segunda falange tiene dos pequeñas cavidades glenoideas que se adaptan a las carillas de la tróclea.
+Los movimientos de lateralidad en las articulaciones interfalángicas proximales son nulos.
+La flexión activa de las articulaciones interfalángicas proximales sobrepasa los 90°, aumentando desde el segundo al quinto dedo, hasta llegar a 135° en el dedo meñique.
+La flexión activa de las articulaciones interfalángicas distales es algo inferior a los 90°, pero como en las anteriores, va aumentando desde el dedo índice hasta conseguir 90° en el dedo meñique.
+Los movimientos de lateralidad pasivos pueden alcanzar 5° en las articulaciones interfalángicas distales donde la estabilidad lateral condiciona básicamente la potencia de presión de la mano.
+\\
+\\
+\\
+\textbf{Tendones de los músculos flexores de los dedos}\\
+Todos los músculos del antebrazo a excepción del pronador redondo, el supinador corto y el braquial anterior, atraviesan la articulación de la muñeca y las articulaciones metacarpofalángicas. Los músculos de los tendones flexores de los dedos se originan en la epitróclea humeral y se dirigen hacia la cara palmar.
+Los tendones flexores están envueltos por una vaina cilíndrica que contiene un líquido sinovial que actúa como lubricante para evitar o disminuir la fricción en los movimientos del tendón contra las prominencias óseas o en los puntos de angulación de las articulaciones.
+\\
+\\
+\\
+\textbf{Movimientos de oposición del pulgar}\\
+La función primordial de la mano es la de la presión. Esta se realiza por la facultas que tiene el dedo pulgar de oponerse a los demás dedos a modo de pinza potente, desde el dedo índice hasta el meñique con igual intensidad, gracias a los movimientos coordinados de los músculos de la eminencia tenar y a la desviación cubital de los dedos en flexión, que facilita la dirección de sus ejes hacia el pulpejo de dedo pulgar.
+La oposición del pulgar resulta de la coordinación de varios movimientos como son la antepulsión y aducción del primer metacarpiano, junto con la rotación axial del primer metacarpiano y de la primera falange.
+El dedo pulgar es el mas importante de la mano gracias a su movilidad y a si fuerza, pero sobre todo por su capacidad irremplazable de oponerse a cada uno de los demás dedos por igual y a la palma de la mano.
+\\
+\\
+\\
+
+\textbf{Funciones y posición funcional de la mano}\\
+La mano tiene múltiples funciones, siendo la mas importantes la de tocar que es una función sensitiva y la de presión que es una función motora.
+La posición funcional de la mano es aquella en que la muñeca se encuentra en extensión ligera e inclinación cubital leve, los dedos están ligeramente flexionados, y el pulgar en semioposición, a 40° de antepulsión y a 20° de abducción.
+Es imprescindible tenerla presente en el momento de inmovilizar una mano después de un traumatismo, pero sobre todo en aquellos casos graves en los que se puede prever una anquilosis articular, para conseguir una mano útil con la ayuda de las articulaciones restantes.
+\\
+\\
+\\
+\\
+\\\\
+\\
+\\
+\\
+\section{Conclusión}\label{intro} % seccion y etiqueta
+En conclusión, podemos confirmar que la mano no es sólo un órgano de ejecución, sino también es un receptor sensorial extremadamente sensible y preciso, la presión que se ejerce en la mano es en función al objeto que se desee tomar. La fuerza y la presión constituyen toda la acción de la mano. La muñeca es parte fundamental que a través de músculos flexores y extensores es fijada para llevar a cabo ya sea una presión palmar o en forma de gancho. La mano, es un miembro esencial y único del ser humano, diseñado a la perfección para realizar un sinfín de números de acciones. La mano representa la extremidad efectora del miembro superior, esto Constituye un soporte logístico que le permite adoptar la posición más favorable para una acción determinada. 
+
+
+\end{document}
